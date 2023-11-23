@@ -1,3 +1,3 @@
-# netflixDataVirtualization
+# Netflix & Disney Plus comparision data visualizaion
 
-빅데이터 기말 프로젝트
+:eyes:빅데이터처리 기말 프로젝트
